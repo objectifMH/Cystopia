@@ -16,7 +16,7 @@
 
 	width: 140px;
 	height: 194px;
-	background: url('../heros/seiya.png') no-repeat center / contain;
+	background: url('/heros/seiya.png') no-repeat center / contain;
 	display: inline-block;
 	//position: absolute;
 	color:white;

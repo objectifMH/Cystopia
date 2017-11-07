@@ -1,7 +1,7 @@
 <?php
 
 define('MYSQL_HOST', 'localhost');
-define('MYSQL_NAME', 'cystopia');
+define('MYSQL_NAME', 'cystopia2');
 define('MYSQL_USER', 'root');
 define('MYSQL_PASS', '');
 
